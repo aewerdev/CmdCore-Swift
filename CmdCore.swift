@@ -2,7 +2,7 @@
 //  CmdCore.swift
 //  WUtils
 //
-//  Created by Apple on 8/16/25.
+//  Created by aewerdev on 8/16/25.
 //
 
 import Foundation
